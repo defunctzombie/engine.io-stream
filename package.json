@@ -18,8 +18,8 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "engine.io": "git://github.com/LearnBoost/engine.io.git#1d7157",
-    "engine.io-client": "git://github.com/shtylman/engine.io-client.git#v0.4.1-dz1"
+    "engine.io": "0.7.12",
+    "engine.io-client": "0.7.12"
   },
   "devDependencies": {
     "tap": "~0.3.1"
