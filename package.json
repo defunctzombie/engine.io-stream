@@ -22,7 +22,8 @@
     "engine.io-client": "0.7.12"
   },
   "devDependencies": {
-    "after": "0.8.1"
+    "after": "0.8.1",
+    "zuul": "~1.0.2"
   },
   "licenses": [
     {
